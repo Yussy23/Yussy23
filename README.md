@@ -14,7 +14,7 @@
 
 - 💞️ I'm always interested in collaborating with other software engineers on interesting projects. If you have an idea for a project or would like to collaborate on one of mine, please feel free to reach out!
 
-- 📫 You can reach me by email at yousra.dribi15@gmail.com or connect with me on LinkedIn at linkedin.com/in/yousra-dr/ . I'm always happy to chat with other software engineers and exchange ideas
+- 📫 You can reach me by email at yousra.dribi15@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/yousra-dr/ . I'm always happy to chat with other software engineers and exchange ideas
 
 <!---
 Yussy23/Yussy23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

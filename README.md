@@ -8,9 +8,7 @@
          Artificial intelligence
          Cybersecurity
          
-- 🌱 I’m currently learning the basics of programming and the C language
-
--    and I am also working on several projects to help me develop my skills and explore new areas of software engineering
+- 🌱 I’m currently learning the basics of programming and the C language , and I am also working on several projects to help me develop my skills and explore new areas of software engineering
 
 - 💞️ I'm always interested in collaborating with other software engineers on interesting projects. If you have an idea for a project or would like to collaborate on one of mine, please feel free to reach out!
 

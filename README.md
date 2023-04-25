@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Yousra!
-     I'm currently a software engineer student in ALX with a passion for coding and a love of learning new things , and I'm excited to be developing my skills in programming, web development, and software engineering
+     I'm currently a software engineer student at ALX with a passion for coding and a love of learning new things , and I'm excited to be developing my skills in programming, web development, and software engineering
      
 - 👀 I’m interested in a wide range of topics related to software engineering and computer science, including:
          Web development
